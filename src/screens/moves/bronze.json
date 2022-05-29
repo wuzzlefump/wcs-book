@@ -1,0 +1,15 @@
+[
+  {
+    "name": "1) TBD",
+    "enum": "LeadBasicElements",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "",
+        "step": "",
+        "turn": "",
+        "lead": ""
+      }
+    ]
+  }
+]

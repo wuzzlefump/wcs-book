@@ -1,0 +1,5 @@
+.grid [class*="ag-header"] {
+  background-color: whitesmoke;
+  color: black;
+  text-align: center;
+}

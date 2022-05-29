@@ -1,0 +1,236 @@
+[
+  {
+    "name": "1) Sugar Push (Lead) ",
+    "enum": "sugarPushLead",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "1) Sugar Push (Follow)",
+    "enum": "sugarPushFollow",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "2) Left Side Pass (Lead) ",
+    "enum": "leftSidePassLead",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "2) Left Side Pass (Follow)",
+    "enum": "leftSidePassFollow",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "3) Under Arm Pass (Lead) ",
+    "enum": "underarmPassLead",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "3) Under Arm Pass (Follow)",
+    "enum": "underarmPassFollow",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "4) Right Side Pass (Lead) ",
+    "enum": "rightSidePassLead",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "4) Right Side Pass (Follow)",
+    "enum": "rightSidePassFollow",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "5) Sugar Tuck (Lead) ",
+    "enum": "sugarTuckLead",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "5) Sugar Tuck (Follow)",
+    "enum": "sugarTuckFollow",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "6) Turning Basic (Lead) ",
+    "enum": "turningBasicLead",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "6) Turning Basic (Follow)",
+    "enum": "turningBasicFollow",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "7) Tuck Out (Lead) ",
+    "enum": "tuckOutLead",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "7) Tuck Out (Follow)",
+    "enum": "tuckOutFollow",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "8) Whip (Lead) ",
+    "enum": "whipLead",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "8) Whip (Follow)",
+    "enum": "whipFollow",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "9) Starter Step (Lead) ",
+    "enum": "starterLead",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "9) Starter Step (Follow)",
+    "enum": "starterFollow",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  }
+]

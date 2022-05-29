@@ -1,0 +1,314 @@
+[
+  {
+    "name": "1) Inside Turn (Lead) ",
+    "enum": "insideTurnLead",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "1) Inside Turn (Follow)",
+    "enum": "insideTurnFollow",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "2) Whip W/ Inside Turn (Lead) ",
+    "enum": "whipInsideTurnLead",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "2) Whip W/ Inside Turn (Follow)",
+    "enum": "whipInsideTurnFollow",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "3) Whip W/ Outside Turn (Lead) ",
+    "enum": "whipOutsideTurnLead",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "3) Whip W/ Outside Turn (Follow)",
+    "enum": "whipOutsideTurnFollow",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "4) Anchor Varaition (closed to open) (Lead) ",
+    "enum": "anchoraLead",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "4) Anchor Varaition (closed to open) (Follow)",
+    "enum": "anchoraFollow",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "5) Anchor Varaition (open to closed) (Lead) ",
+    "enum": "anchorbLead",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "5) Anchor Varaition (open to closed) (Follow)",
+    "enum": "anchorbFollow",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "6) Fold Pass (Lead) ",
+    "enum": "foldLead",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "6) Fold Pass (Follow)",
+    "enum": "foldFollow",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "7) Sweet Heart Pass (Lead) ",
+    "enum": "sweetheartLead",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "7) Sweet Heart Pass (Follow)",
+    "enum": "sweetheartFollow",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "8) Reverse Whip (Lead) ",
+    "enum": "revereseWhipLead",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "8) Reverse Whip (Follow)",
+    "enum": "reverseWhipFollow",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "9) Reverse Sweet Heart (Lead) ",
+    "enum": "reverseSweetHeartLead",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "9) Reverse Sweet Heart (Follow)",
+    "enum": "reverseSweetHeartFollow",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "10) Roll In Roll Out (Lead) ",
+    "enum": "RollLead",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "10) Roll in Roll Out (Follow)",
+    "enum": "RollFollow",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "11) SlingShot A (Lead) ",
+    "enum": "slingshotaLead",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "11) SlingShot A (Follow)",
+    "enum": "slingshotaFollow",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "12) SlingShot B (Lead) ",
+    "enum": "slingshotbLead",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  },
+  {
+    "name": "12)Slingshot B (Follow)",
+    "enum": "slingshotbFollow",
+    "steps": [
+      {
+        "footMovement": "",
+        "count": "1",
+        "step": "1",
+        "turn": "-",
+        "lead": ""
+      }
+    ]
+  }
+]
